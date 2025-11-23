@@ -47,4 +47,13 @@ This project is a web-based dashboard that fetches live news headlines from arou
 
 
 \## Screenshots
+<img width="1788" height="1363" alt="Screenshot 2025-11-23 164926" src="https://github.com/user-attachments/assets/6dc211fd-170d-49bd-9098-6007048cf263" />
+
+<img width="1831" height="1414" alt="Screenshot 2025-11-23 164953" src="https://github.com/user-attachments/assets/ddfc4384-a2a4-4a92-9e4a-211d1902da85" />
+
+
+<img width="1640" height="1433" alt="Screenshot 2025-11-23 165016" src="https://github.com/user-attachments/assets/607f1406-211d-4c97-9ad1-d7e0ee1fec69" />
+
+
+<img width="1774" height="1343" alt="Screenshot 2025-11-23 165048" src="https://github.com/user-attachments/assets/e30b5437-f0d3-45f9-863a-66c842808572" />
 
